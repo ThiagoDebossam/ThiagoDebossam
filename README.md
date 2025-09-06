@@ -4,12 +4,13 @@
 - 🔥 Full Stack Developer
 - 🔭 I’m currently working at A4PM
 
-- 💬 Ask me about **Nest, Vue, React, React Native, MYSQL, Laravel,  Node.JS**
+- 💬 Ask me about **Nest, Vue, React, React Native, MYSQL, Laravel,  Node.JS, TypeScript, C#**
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-
+![C#](https://img.shields.io/badge/-dotnet-05122A?style=flat&logo=dotnet)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
